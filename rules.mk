@@ -1,6 +1,7 @@
 #
 # (C) Copyright 2006
 # Wolfgang Denk, DENX Software Engineering, wd@denx.de.
+#.
 #
 # See file CREDITS for list of people who contributed to this
 # project.
